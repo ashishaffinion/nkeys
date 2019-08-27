@@ -27,7 +27,7 @@ Use the `go` command:
 
 ## nk - Command Line Utility
 
-Located under the nk [directory](https://github.com/nats-io/nkeys/tree/master/nk).
+Located under the nk [directory](https://github.com/ashishaffinion/nkeys/tree/master/nk).
 
 ## Basic API Usage
 ```go
